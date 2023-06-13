@@ -1,0 +1,1811 @@
+[
+  {
+    "KF_Job_ID": "32099333-0C5B-BA43-BB42-EB10221108D9",
+    "Address": "615 Bottle Brush Dr",
+    "City": "Kyle ",
+    "State": "TX",
+    "Zip": 78640,
+    "Lat": 30.0053938,
+    "Lon": -97.8893174,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Softer Tan", "color_number": 6141 },
+      { "location": "Trim", "color_name": "Foothills", "color_number": 7514 },
+      { "location": "Accent", "color_name": "Darkroom ", "color_number": 7083 }
+    ]
+  },
+  {
+    "KF_Job_ID": "F6E673B2-E026-A441-9567-D4778434C000",
+    "Address": "4209 Camacho St",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78723,
+    "Lat": 30.2947535,
+    "Lon": -97.7049498,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Softer Tan", "color_number": 6141 },
+      { "location": "Trim", "color_name": "Foothills", "color_number": 7514 },
+      { "location": "Accent", "color_name": "Darkroom ", "color_number": 7083 }
+    ]
+  },
+  {
+    "KF_Job_ID": "389E5C4D-20BA-D04F-9375-8062D74145E2",
+    "Address": "1933  McCloskey  St.",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78723,
+    "Lat": 30.2928332,
+    "Lon": -97.7035481,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      {
+        "location": "Body",
+        "color_name": "Keystone Gray",
+        "color_number": 7504
+      },
+      { "location": "Trim", "color_name": "Alabaster", "color_number": 7008 },
+      {
+        "location": "Accent",
+        "color_name": "Jade Dragon",
+        "color_number": 9129
+      },
+      { "location": "Accent", "color_name": "Tidewater", "color_number": 6477 }
+    ]
+  },
+  {
+    "KF_Job_ID": "33B98858-4535-804B-9E7D-10C6E00469DD",
+    "Address": " 4229 Gochman St ",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78723,
+    "Lat": 30.2951175,
+    "Lon": -97.7018111,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Umber Rust", "color_number": 9100 },
+      { "location": "Trim", "color_name": "Urban Putty", "color_number": 7532 },
+      {
+        "location": "Accent",
+        "color_name": "Jade Dragon",
+        "color_number": 9129
+      },
+      { "location": "Accent", "color_name": "Tidewater", "color_number": 6477 }
+    ]
+  },
+  {
+    "KF_Job_ID": "467A5B17-02C8-EA47-97CC-A4CC4D83EAAE",
+    "Address": "4010 County Road 404",
+    "City": "Spicewood ",
+    "State": "TX",
+    "Zip": 78669,
+    "Lat": 30.4757958,
+    "Lon": -98.1587023,
+    "Substrate": "Unpainted Stucco",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Anonymous", "color_number": 7046 },
+      { "location": "Trim", "color_name": "Urban Putty", "color_number": 7532 },
+      {
+        "location": "Accent",
+        "color_name": "Jade Dragon",
+        "color_number": 9129
+      },
+      { "location": "Accent", "color_name": "Tidewater", "color_number": 6477 }
+    ]
+  },
+  {
+    "KF_Job_ID": "14133CF9-84BD-BE4C-BB87-0CDD82E7DDF4",
+    "Address": "595  Clear Springs Hallow",
+    "City": "Buda",
+    "State": "TX",
+    "Zip": "78610\r\r\n",
+    "Lat": 30.0930582,
+    "Lon": -97.8675147,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Summit Gray", "color_number": 7669 },
+      {
+        "location": "Trim",
+        "color_name": "Roycroft Pewter",
+        "color_number": 2848
+      },
+      {
+        "location": "Accent",
+        "color_name": "Jade Dragon",
+        "color_number": 9129
+      },
+      { "location": "Accent", "color_name": "Tidewater", "color_number": 6477 }
+    ]
+  },
+  {
+    "KF_Job_ID": "2E305C1B-9934-B84E-846B-65D5E1BEC665",
+    "Address": "124 Indigo Cv",
+    "City": "Kyle",
+    "State": "TX",
+    "Zip": 78640,
+    "Lat": 30.0030722,
+    "Lon": -97.8936127,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Summit Gray", "color_number": 7669 },
+      {
+        "location": "Trim",
+        "color_name": "Roycroft Pewter",
+        "color_number": 2848
+      },
+      {
+        "location": "Accent",
+        "color_name": "Jade Dragon",
+        "color_number": 9129
+      },
+      { "location": "Accent", "color_name": "Tidewater", "color_number": 6477 }
+    ]
+  },
+  {
+    "KF_Job_ID": "DE3CC758-8C7E-E144-8701-C2F615B8BC81",
+    "Address": "519 Broken Feather Trl",
+    "City": "Pflugerville",
+    "State": "TX",
+    "Zip": 78660,
+    "Lat": 30.4425491,
+    "Lon": -97.6378376,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Alabaster", "color_number": 7008 },
+      {
+        "location": "Trim",
+        "color_name": "Mindful Gray",
+        "color_number": 7016
+      },
+      {
+        "location": "Accent",
+        "color_name": "Cyberspace",
+        "color_number": 7076
+      },
+      { "location": "Accent", "color_name": "Tidewater", "color_number": 6477 }
+    ]
+  },
+  {
+    "KF_Job_ID": "1C6612C2-9488-A745-A623-A4874AEE6CDB",
+    "Address": " 6721 Panda Royle Dr ",
+    "City": "Del Valle",
+    "State": "TX",
+    "Zip": 78617,
+    "Lat": 30.1607011,
+    "Lon": -97.6390665,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      {
+        "location": "Body",
+        "color_name": "Tavern Taupe",
+        "color_number": 7508
+      },
+      {
+        "location": "Trim",
+        "color_name": "Pavilion Beige",
+        "color_number": 7512
+      },
+      {
+        "location": "Accent",
+        "color_name": "Cyberspace",
+        "color_number": 7076
+      },
+      { "location": "Accent", "color_name": "Tidewater", "color_number": 6477 }
+    ]
+  },
+  {
+    "KF_Job_ID": "2FB06050-AE62-B34F-A7CF-841D8115E307",
+    "Address": "126 Rosemary Hollow ",
+    "City": "Buda",
+    "State": "TX",
+    "Zip": 78610,
+    "Lat": 30.0914954,
+    "Lon": -97.8719475,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Portabello", "color_number": 6102 },
+      { "location": "Trim", "color_name": "Cocoa Whip", "color_number": 9084 },
+      { "location": "Accent", "color_name": "Ember", "color_number": 3029 },
+      { "location": "Accent", "color_name": "Tidewater", "color_number": 6477 }
+    ]
+  },
+  {
+    "KF_Job_ID": "38797569-BF85-6849-B303-598D25563A1E",
+    "Address": "2500 Niemann Dr",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78748,
+    "Lat": 30.1572724,
+    "Lon": -97.8467583,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Khaki Shade", "color_number": 7533 },
+      {
+        "location": "Body",
+        "color_name": "Roman Column",
+        "color_number": 7562
+      },
+      { "location": "Trim", "color_name": "Llama Wool", "color_number": 9089 },
+      {
+        "location": "Accent",
+        "color_name": "Polished Mahogany",
+        "color_number": 2838
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "595DB39B-4AC8-7541-B746-48B908F5AC51",
+    "Address": "6909 Dubuque Ln",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78723,
+    "Lat": 30.3146126,
+    "Lon": -97.6673974,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Khaki Shade", "color_number": 7533 },
+      {
+        "location": "Body",
+        "color_name": "Roman Column",
+        "color_number": 7562
+      },
+      { "location": "Trim", "color_name": "Llama Wool", "color_number": 9089 },
+      {
+        "location": "Accent",
+        "color_name": "Polished Mahogany",
+        "color_number": 2838
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "797FFC70-1158-5F4E-8A2E-AEB67235A323",
+    "Address": "3007 Loyola Ln",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78723,
+    "Lat": 30.312359,
+    "Lon": -97.6713221,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Summit Gray", "color_number": 7669 },
+      { "location": "Trim", "color_name": "Pure White", "color_number": 7005 },
+      {
+        "location": "Accent",
+        "color_name": "Greenblack",
+        "color_number": 6994
+      },
+      {
+        "location": "Accent",
+        "color_name": "Polished Mahogany",
+        "color_number": 2838
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "E22233AA-774F-6D4C-A3A7-5099E00ADDD3",
+    "Address": "9304 Topridge Dr",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78750,
+    "Lat": 30.4335397,
+    "Lon": -97.7953535,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Alabaster", "color_number": 7008 },
+      { "location": "Trim", "color_name": "Sea Salt", "color_number": 6204 },
+      {
+        "location": "Accent",
+        "color_name": "Greenblack",
+        "color_number": 6994
+      },
+      {
+        "location": "Accent",
+        "color_name": "Polished Mahogany",
+        "color_number": 2838
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "43F2C7C2-FD5C-8E47-9C9F-1065F02DEDD0",
+    "Address": "1901 Sorghum Hill Dr",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78754,
+    "Lat": 30.3698835,
+    "Lon": -97.6583237,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Jubilee", "color_number": 6248 },
+      { "location": "Trim", "color_name": "Ibis White", "color_number": 7000 },
+      { "location": "Accent", "color_name": "Salute", "color_number": 7582 },
+      {
+        "location": "Accent",
+        "color_name": "Polished Mahogany",
+        "color_number": 2838
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "A3C05A06-EF2E-0243-A14E-1567A41260B4",
+    "Address": "11013 Desert Willow Loop",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78748,
+    "Lat": 30.1469198,
+    "Lon": -97.8068214,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Jubilee", "color_number": 6248 },
+      { "location": "Trim", "color_name": "Ibis White", "color_number": 7000 },
+      { "location": "Accent", "color_name": "Salute", "color_number": 7582 },
+      {
+        "location": "Accent",
+        "color_name": "Polished Mahogany",
+        "color_number": 2838
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "F342B702-E39E-C942-99F4-BC0E240379D7",
+    "Address": "1321  Canopy Creek  Way",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78748,
+    "Lat": 30.1671432,
+    "Lon": -97.8200107,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Jubilee", "color_number": 6248 },
+      { "location": "Trim", "color_name": "Ibis White", "color_number": 7000 },
+      { "location": "Accent", "color_name": "Salute", "color_number": 7582 },
+      {
+        "location": "Accent",
+        "color_name": "Polished Mahogany",
+        "color_number": 2838
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "C49E0CB3-1EA8-1548-9D22-8953A5B0E344",
+    "Address": "1911 Rockland Dr",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78748,
+    "Lat": 30.164496,
+    "Lon": -97.8270009,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      {
+        "location": "Body",
+        "color_name": "River's Edge",
+        "color_number": 7517
+      },
+      { "location": "Trim", "color_name": "Black Bean", "color_number": 6006 },
+      {
+        "location": "Accent",
+        "color_name": "Black Bean",
+        "color_number": 6006
+      },
+      {
+        "location": "Accent",
+        "color_name": "Loyal Blue",
+        "color_number": 6510
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "F8E9BFE5-6644-A742-A07B-86464879164D",
+    "Address": "1605 Redwater Dr #153",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78748,
+    "Lat": 30.1659443,
+    "Lon": -97.8251293,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color/0/location": "Body",
+    "Color/0/color_name": "Brown - see photo",
+    "Color/1/location": "Trim",
+    "Color/1/color_name": "Cream 0 see photo",
+    "Color": [
+      {
+        "location": "Accent",
+        "color_name": "Black Bean",
+        "color_number": 6006
+      },
+      {
+        "location": "Accent",
+        "color_name": "Loyal Blue",
+        "color_number": 6510
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "74CD3772-1E64-B543-8F4C-44C25D700794",
+    "Address": " 8811 Point W Dr ",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78759,
+    "Lat": 30.3824383,
+    "Lon": -97.7489912,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color/0/location": "Body",
+    "Color/0/color_name": "Brown - see photo",
+    "Color/1/location": "Trim",
+    "Color/1/color_name": "Cream 0 see photo",
+    "Color": [
+      {
+        "location": "Accent",
+        "color_name": "Black Bean",
+        "color_number": 6006
+      },
+      {
+        "location": "Accent",
+        "color_name": "Loyal Blue",
+        "color_number": 6510
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "AE4C0A1A-9F97-004E-9426-2098EF209A16",
+    "Address": "1512 Plume Grass Pl",
+    "City": "Round Rock",
+    "State": "TX",
+    "Zip": 78665,
+    "Lat": 30.5042756,
+    "Lon": -97.6431304,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Jubilee", "color_number": 6248 },
+      { "location": "Trim", "color_name": "Ibis White", "color_number": 7000 },
+      { "location": "Accent", "color_name": "Salute", "color_number": 7582 },
+      {
+        "location": "Accent",
+        "color_name": "Loyal Blue",
+        "color_number": 6510
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "C6AB529F-C0F6-8545-9452-31BCE9672F83",
+    "Address": "8301 Shallot Way ",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78748,
+    "Lat": 30.1776015,
+    "Lon": -97.7883006,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Ibis White", "color_number": 7000 },
+      {
+        "location": "Trim",
+        "color_name": "Mindful Gray",
+        "color_number": 7016
+      },
+      { "location": "Accent", "color_name": "Sea Salt", "color_number": 6204 },
+      {
+        "location": "Accent",
+        "color_name": "Loyal Blue",
+        "color_number": 6510
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "AB3767C8-55A2-C845-B039-B45D7E772E36",
+    "Address": "3704 Tamarack Trl",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78727,
+    "Lat": 30.4255275,
+    "Lon": -97.7111852,
+    "Substrate": "Painted Stucco",
+    "Complete": 2022,
+    "Color": [
+      {
+        "location": "Trim",
+        "color_name": "Downing Earth",
+        "color_number": 2820
+      },
+      { "location": "Accent", "color_name": "Riverwood", "color_number": 3507 },
+      { "location": "Accent", "color_name": "Sea Salt", "color_number": 6204 },
+      {
+        "location": "Accent",
+        "color_name": "Loyal Blue",
+        "color_number": 6510
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "F319C13E-77BD-4740-8FA6-6B3AC8982D2C",
+    "Address": "7513  Marble Crest  Dr.",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78747,
+    "Lat": 30.1632188,
+    "Lon": -97.7423479,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      {
+        "location": "Trim",
+        "color_name": "Downing Earth",
+        "color_number": 2820
+      },
+      { "location": "Accent", "color_name": "Riverwood", "color_number": 3507 },
+      { "location": "Accent", "color_name": "Sea Salt", "color_number": 6204 },
+      {
+        "location": "Accent",
+        "color_name": "Loyal Blue",
+        "color_number": 6510
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "B871B54C-BC6B-4049-A944-12C6D8584F0B",
+    "Address": "2909  Victoria Cove",
+    "City": "Round Rock",
+    "State": "TX",
+    "Zip": 78664,
+    "Lat": 30.5142993,
+    "Lon": -97.609915,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      {
+        "location": "Body",
+        "color_name": "Gossamer Veil",
+        "color_number": 9165
+      },
+      { "location": "Accent", "color_name": "Riverwood", "color_number": 3507 },
+      { "location": "Accent", "color_name": "Sea Salt", "color_number": 6204 },
+      {
+        "location": "Accent",
+        "color_name": "Loyal Blue",
+        "color_number": 6510
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "850D765D-8339-E640-95D3-6C8429306F76",
+    "Address": "2034  Golden Bear  Dr.",
+    "City": "Round Rock",
+    "State": "TX",
+    "Zip": 78664,
+    "Lat": 30.5114585,
+    "Lon": -97.6009516,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Alabaster", "color_number": 7008 },
+      { "location": "Trim", "color_name": "Alabaster", "color_number": 7008 },
+      { "location": "Accent", "color_name": "Sea Salt", "color_number": 6204 },
+      {
+        "location": "Accent",
+        "color_name": "Loyal Blue",
+        "color_number": 6510
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "28FBE246-DEB5-7544-8C06-ECBEF35DC784",
+    "Address": "6408  Abilene  Trail",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78749,
+    "Lat": 30.2141642,
+    "Lon": -97.8742788,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Alabaster", "color_number": 7008 },
+      { "location": "Trim", "color_name": "Alabaster", "color_number": 7008 },
+      { "location": "Accent", "color_name": "Sea Salt", "color_number": 6204 },
+      {
+        "location": "Accent",
+        "color_name": "Loyal Blue",
+        "color_number": 6510
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "C1CAB23A-E5A8-1A42-887A-0DD6409EF665",
+    "Address": " 601 Greenwich Pl ",
+    "City": "Round Rock",
+    "State": "TX",
+    "Zip": 78664,
+    "Lat": 30.4918578,
+    "Lon": -97.6702198,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      {
+        "location": "Body",
+        "color_name": "Neutral Ground",
+        "color_number": 7568
+      },
+      { "location": "Trim", "color_name": "Cyberspace", "color_number": 7076 },
+      { "location": "Accent", "color_name": "Sunflower", "color_number": 6678 },
+      {
+        "location": "Accent",
+        "color_name": "Loyal Blue",
+        "color_number": 6510
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "114BF33A-AE29-024D-873F-DDF42695F0D5",
+    "Address": "17000  Columbine St.",
+    "City": "Pflugerville",
+    "State": "TX",
+    "Zip": 78660,
+    "Lat": 30.458712,
+    "Lon": -97.6376653,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      {
+        "location": "Body",
+        "color_name": "Amazing Gray",
+        "color_number": 7044
+      },
+      { "location": "Trim", "color_name": "White Flour", "color_number": 7102 },
+      {
+        "location": "Accent",
+        "color_name": "Anchors Aweigh",
+        "color_number": 9179
+      },
+      {
+        "location": "Accent",
+        "color_name": "Loyal Blue",
+        "color_number": 6510
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "A14E64D1-D293-C144-946C-AD62387BED35",
+    "Address": "704  Marc Taylor  Dr.",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78745,
+    "Lat": 30.1862225,
+    "Lon": -97.7986976,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      {
+        "location": "Body",
+        "color_name": "Desert Castle",
+        "color_number": "8722W"
+      },
+      { "location": "Trim", "color_name": "White Flour", "color_number": 7102 },
+      {
+        "location": "Accent",
+        "color_name": "Anchors Aweigh",
+        "color_number": 9179
+      },
+      {
+        "location": "Accent",
+        "color_name": "Loyal Blue",
+        "color_number": 6510
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "AF9347A0-0F43-5648-8BF8-DC9C5289C23D",
+    "Address": "8311  Edgemoor Pl.",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78749,
+    "Lat": 30.2087542,
+    "Lon": -97.8553586,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      {
+        "location": "Body",
+        "color_name": "Attitude Gray",
+        "color_number": 7060
+      },
+      { "location": "Trim", "color_name": "Creamy", "color_number": 7012 },
+      {
+        "location": "Accent",
+        "color_name": "Honorable Blue",
+        "color_number": 6811
+      },
+      {
+        "location": "Accent",
+        "color_name": "Loyal Blue",
+        "color_number": 6510
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "31E36E06-09E2-804E-87A2-EEB8A5E9653E",
+    "Address": "10717  Portico  Lane",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78748,
+    "Lat": 30.1671048,
+    "Lon": -97.8348142,
+    "Substrate": "Painted Stucco",
+    "Complete": 2022,
+    "Color": [
+      {
+        "location": "Body",
+        "color_name": "Attitude Gray",
+        "color_number": 7060
+      },
+      { "location": "Trim", "color_name": "Creamy", "color_number": 7012 },
+      {
+        "location": "Accent",
+        "color_name": "Honorable Blue",
+        "color_number": 6811
+      },
+      {
+        "location": "Accent",
+        "color_name": "Loyal Blue",
+        "color_number": 6510
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "1FFF1C77-21DF-B64F-BB17-E2F828896E56",
+    "Address": "17905  Calm Harbor  Dr.",
+    "City": "Pflugerville",
+    "State": "TX",
+    "Zip": 78660,
+    "Lat": 30.4448272,
+    "Lon": -97.5730817,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Latte", "color_number": 6108 },
+      { "location": "Trim", "color_name": "Creamy", "color_number": 7012 },
+      {
+        "location": "Accent",
+        "color_name": "Honorable Blue",
+        "color_number": 6811
+      },
+      {
+        "location": "Accent",
+        "color_name": "Loyal Blue",
+        "color_number": 6510
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "55878ADE-FBB6-9B4B-95FF-959F4491499D",
+    "Address": " 1505 Fort LLoyd Pl ",
+    "City": "Round Rock",
+    "State": "TX",
+    "Zip": 78665,
+    "Lat": 30.5048781,
+    "Lon": -97.6435936,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Latte", "color_number": 6108 },
+      { "location": "Trim", "color_name": "Creamy", "color_number": 7012 },
+      {
+        "location": "Accent",
+        "color_name": "Honorable Blue",
+        "color_number": 6811
+      },
+      {
+        "location": "Accent",
+        "color_name": "Loyal Blue",
+        "color_number": 6510
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "537B5875-9FCA-264D-858E-16004F2D8E95",
+    "Address": "1708  Gracy Farms  Lane",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78758,
+    "Lat": 30.3987418,
+    "Lon": -97.705327,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Latte", "color_number": 6108 },
+      { "location": "Trim", "color_name": "Creamy", "color_number": 7012 },
+      {
+        "location": "Accent",
+        "color_name": "Honorable Blue",
+        "color_number": 6811
+      },
+      {
+        "location": "Accent",
+        "color_name": "Loyal Blue",
+        "color_number": 6510
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "7DFBF278-A007-EB4E-A569-207485CBA89F",
+    "Address": "1613  Charolais Dr.",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78758,
+    "Lat": 30.3888866,
+    "Lon": -97.6987658,
+    "Substrate": "Painted Board and Bat",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Rock Candy", "color_number": 6231 },
+      { "location": "Trim", "color_name": "Poolhouse", "color_number": 7603 },
+      {
+        "location": "Accent",
+        "color_name": "Honorable Blue",
+        "color_number": 6811
+      },
+      {
+        "location": "Accent",
+        "color_name": "Loyal Blue",
+        "color_number": 6510
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "D17B33F5-3F41-3C49-B13B-9B48FC42719B",
+    "Address": "4415 Diane Dr",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78745,
+    "Lat": 30.2256782,
+    "Lon": -97.7838025,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Alabaster", "color_number": 7008 },
+      { "location": "Trim", "color_name": "Distance", "color_number": 6243 },
+      { "location": "Accent", "color_name": "Ramie", "color_number": 6156 },
+      {
+        "location": "Accent",
+        "color_name": "Loyal Blue",
+        "color_number": 6510
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "A3EC6C09-DEC2-A74F-9653-20CF410255CC",
+    "Address": "399  Covent Dr.",
+    "City": "Kyle",
+    "State": "TX",
+    "Zip": 78640,
+    "Lat": 30.0084326,
+    "Lon": -97.8386899,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      {
+        "location": "Body",
+        "color_name": "Attitude Gray",
+        "color_number": 7060
+      },
+      { "location": "Trim", "color_name": "Creamy", "color_number": 7012 },
+      {
+        "location": "Accent",
+        "color_name": "Black Magic",
+        "color_number": 6991
+      },
+      {
+        "location": "Accent",
+        "color_name": "Loyal Blue",
+        "color_number": 6510
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "0AA9A4CD-9B23-2747-B4AA-0CA8695342D2",
+    "Address": "4108  Scales  St.",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78723,
+    "Lat": 30.2938452,
+    "Lon": -97.7043334,
+    "Substrate": "Wood Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Edamame", "color_number": 7729 },
+      {
+        "location": "Body",
+        "color_name": "Rembrandt Ruby",
+        "color_number": 33
+      },
+      {
+        "location": "Trim",
+        "color_name": "Restful White",
+        "color_number": 7563
+      },
+      {
+        "location": "Accent",
+        "color_name": "Loyal Blue",
+        "color_number": 6510
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "28E4DC7F-16EF-5947-9F40-CF2F4982B123",
+    "Address": "6915  La Salle  Dr.",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78723,
+    "Lat": 30.3154264,
+    "Lon": -97.669998,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      {
+        "location": "Body",
+        "color_name": "Silverpointe",
+        "color_number": 7653
+      },
+      { "location": "Trim", "color_name": "Slate Tile", "color_number": 7624 },
+      { "location": "Accent", "color_name": "JalapeÃ±o", "color_number": 6629 },
+      {
+        "location": "Accent",
+        "color_name": "Loyal Blue",
+        "color_number": 6510
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "34BFD47A-B117-174B-B7F3-C35F4B99E950",
+    "Address": "3401  Texas Topaz Dr.",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78728,
+    "Lat": 30.4605646,
+    "Lon": -97.6830104,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Rare Gray", "color_number": 6199 },
+      { "location": "Trim", "color_name": "Creamy", "color_number": 7012 },
+      { "location": "Accent", "color_name": "Red Barn", "color_number": 7591 },
+      {
+        "location": "Accent",
+        "color_name": "Loyal Blue",
+        "color_number": 6510
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "7AA17989-66DB-8740-BBB5-9B515980317D",
+    "Address": "2001  Jim Craig  Ct.",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78748,
+    "Lat": 30.1482852,
+    "Lon": -97.8420013,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Softer Tan", "color_number": 6141 },
+      { "location": "Trim", "color_name": "Foothills", "color_number": 7514 },
+      { "location": "Accent", "color_name": "Darkroom", "color_number": 7083 },
+      {
+        "location": "Accent",
+        "color_name": "Loyal Blue",
+        "color_number": 6510
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "E14F4F28-3383-2044-812D-DA3A7768732A",
+    "Address": " 142 Caraway ",
+    "City": "Kyle",
+    "State": "TX",
+    "Zip": 78640,
+    "Lat": 30.0114215,
+    "Lon": -97.8755827,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      {
+        "location": "Body",
+        "color_name": "Rookwood Blue Green",
+        "color_number": 2811
+      },
+      { "location": "Trim", "color_name": "Softer Tan", "color_number": 6141 },
+      {
+        "location": "Accent",
+        "color_name": "Crabby Apple",
+        "color_number": 7592
+      },
+      {
+        "location": "Accent",
+        "color_name": "Loyal Blue",
+        "color_number": 6510
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "62FA5D5F-19C6-7240-B157-5331F58F163F",
+    "Address": "1808  Gaylord  Dr.",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78728,
+    "Lat": 30.438411,
+    "Lon": -97.678447,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Carefree", "color_number": 6777 },
+      {
+        "location": "Trim",
+        "color_name": "High Reflective White",
+        "color_number": 7757
+      },
+      {
+        "location": "Accent",
+        "color_name": "Mineral Deposit",
+        "color_number": 7652
+      },
+      {
+        "location": "Accent",
+        "color_name": "Mineral Gray",
+        "color_number": 2740
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "71EAA707-E27E-3E4D-B24B-110C85BE25AD",
+    "Address": "8808  Point West  Dr.",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78759,
+    "Lat": 30.3822532,
+    "Lon": -97.7499236,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Castle Gate", "color_number": 9558 },
+      {
+        "location": "Trim",
+        "color_name": "Tricorn Black",
+        "color_number": 6258
+      },
+      {
+        "location": "Accent",
+        "color_name": "Mineral Deposit",
+        "color_number": 7652
+      },
+      {
+        "location": "Accent",
+        "color_name": "Mineral Gray",
+        "color_number": 2740
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "9E3961E0-B1A1-5245-A166-7CF56E9BD594",
+    "Address": "8702  Devine  Lane",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78748,
+    "Lat": 30.183396,
+    "Lon": -97.8114719,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Castle Gate", "color_number": 9558 },
+      {
+        "location": "Trim",
+        "color_name": "Tricorn Black",
+        "color_number": 6258
+      },
+      {
+        "location": "Accent",
+        "color_name": "Mineral Deposit",
+        "color_number": 7652
+      },
+      {
+        "location": "Accent",
+        "color_name": "Mineral Gray",
+        "color_number": 2740
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "C582A2FE-C7FA-BF44-A1F6-3CB7C32DA4D0",
+    "Address": "301  Shant St.",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78748,
+    "Lat": 30.1702949,
+    "Lon": -97.794643,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Castle Gate", "color_number": 9558 },
+      {
+        "location": "Trim",
+        "color_name": "Tricorn Black",
+        "color_number": 6258
+      },
+      {
+        "location": "Accent",
+        "color_name": "Mineral Deposit",
+        "color_number": 7652
+      },
+      {
+        "location": "Accent",
+        "color_name": "Mineral Gray",
+        "color_number": 2740
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "D0D16428-27DB-2F4F-BFBF-A449CD713F42",
+    "Address": "1200  Deepwoods Trail",
+    "City": "Leander",
+    "State": "TX",
+    "Zip": 78641,
+    "Lat": 30.550157,
+    "Lon": -97.8603299,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      {
+        "location": "Body",
+        "color_name": "Row House Tan",
+        "color_number": 7689
+      },
+      {
+        "location": "Trim",
+        "color_name": "Natural Linen",
+        "color_number": 9109
+      },
+      {
+        "location": "Accent",
+        "color_name": "Natural Linen",
+        "color_number": 9109
+      },
+      {
+        "location": "Accent",
+        "color_name": "French Roast",
+        "color_number": 6069
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "DB26E66E-BB26-5A4C-BECF-73F6642747B0",
+    "Address": "8110  Matchlock Cove",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78729,
+    "Lat": 30.4475786,
+    "Lon": -97.7681882,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      {
+        "location": "Body",
+        "color_name": "Row House Tan",
+        "color_number": 7689
+      },
+      {
+        "location": "Trim",
+        "color_name": "Natural Linen",
+        "color_number": 9109
+      },
+      {
+        "location": "Accent",
+        "color_name": "Natural Linen",
+        "color_number": 9109
+      },
+      {
+        "location": "Accent",
+        "color_name": "French Roast",
+        "color_number": 6069
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "9A7592FA-2E92-B445-9242-E978958A27FA",
+    "Address": "1318  Dusky Thrush Trail",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78746,
+    "Lat": 30.2717378,
+    "Lon": -97.8062142,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Jasper", "color_number": 6216 },
+      { "location": "Trim", "color_name": "Inkwell", "color_number": 6992 },
+      {
+        "location": "Accent",
+        "color_name": "Bakelite Gold",
+        "color_number": 6368
+      },
+      {
+        "location": "Accent",
+        "color_name": "French Roast",
+        "color_number": 6069
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "D3684093-C153-F447-9D78-0E00ABD81402",
+    "Address": "706  Point Run  Dr.",
+    "City": "Pflugerville",
+    "State": "TX",
+    "Zip": 78660,
+    "Lat": 30.4409954,
+    "Lon": -97.6437468,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color/0/location": "Body",
+    "Color/0/color_name": "CUSTOM - See formula in CRF ",
+    "Color": [
+      { "location": "Trim", "color_name": "Inkwell", "color_number": 6992 },
+      {
+        "location": "Accent",
+        "color_name": "Bakelite Gold",
+        "color_number": 6368
+      },
+      {
+        "location": "Accent",
+        "color_name": "French Roast",
+        "color_number": 6069
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "11989BCB-6355-AA48-906C-1A452A1F8AA0",
+    "Address": "4013  Meadow Bluff Way",
+    "City": "Round Rock",
+    "State": "TX",
+    "Zip": 78665,
+    "Lat": 30.5652855,
+    "Lon": -97.6771476,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Trim", "color_name": "Morning Sun", "color_number": 6672 },
+      {
+        "location": "Accent",
+        "color_name": "Sand Beach",
+        "color_number": 7529
+      },
+      {
+        "location": "Accent",
+        "color_name": "Bakelite Gold",
+        "color_number": 6368
+      },
+      {
+        "location": "Accent",
+        "color_name": "French Roast",
+        "color_number": 6069
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "88D17172-3FD9-354D-8067-D4A6E2D9FC80",
+    "Address": "1461  Kirby ",
+    "City": "Kyle",
+    "State": "TX",
+    "Zip": 78640,
+    "Lat": 29.9891052,
+    "Lon": -97.8772267,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color/0/location": "Trim",
+    "Color/0/color_name": "CUSTOM - Valspar see CRF ",
+    "Color": [
+      {
+        "location": "Accent",
+        "color_name": "Sand Beach",
+        "color_number": 7529
+      },
+      {
+        "location": "Accent",
+        "color_name": "Bakelite Gold",
+        "color_number": 6368
+      },
+      {
+        "location": "Accent",
+        "color_name": "French Roast",
+        "color_number": 6069
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "5691BDB7-C929-C945-8C1F-257FB3CE3510",
+    "Address": "413  Suzzane  Rd.",
+    "City": "Pflugerville",
+    "State": "TX",
+    "Zip": 78660,
+    "Lat": 30.4317451,
+    "Lon": -97.6117673,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color/0/location": "Trim",
+    "Color/0/color_name": "CUSTOM - Valspar see CRF ",
+    "Color": [
+      {
+        "location": "Accent",
+        "color_name": "Sand Beach",
+        "color_number": 7529
+      },
+      {
+        "location": "Accent",
+        "color_name": "Bakelite Gold",
+        "color_number": 6368
+      },
+      {
+        "location": "Accent",
+        "color_name": "French Roast",
+        "color_number": 6069
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "FE94710D-5815-1646-B061-DDCA97F65C47",
+    "Address": "3600  Luminoso  Lane W",
+    "City": "Round Rock",
+    "State": "TX",
+    "Zip": 78681,
+    "Lat": 30.5475801,
+    "Lon": -97.7342339,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color/0/location": "Trim",
+    "Color/0/color_name": "CUSTOM - Valspar see CRF ",
+    "Color": [
+      {
+        "location": "Accent",
+        "color_name": "Sand Beach",
+        "color_number": 7529
+      },
+      {
+        "location": "Accent",
+        "color_name": "Bakelite Gold",
+        "color_number": 6368
+      },
+      {
+        "location": "Accent",
+        "color_name": "French Roast",
+        "color_number": 6069
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "1AA2BE13-BFAA-4242-B027-6B01BFA6A3A2",
+    "Address": " 8418 Racine Trail ",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78717,
+    "Lat": 30.4928939,
+    "Lon": -97.7412102,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color/0/location": "Trim",
+    "Color/0/color_name": "CUSTOM - Valspar see CRF ",
+    "Color": [
+      {
+        "location": "Accent",
+        "color_name": "Sand Beach",
+        "color_number": 7529
+      },
+      {
+        "location": "Accent",
+        "color_name": "Bakelite Gold",
+        "color_number": 6368
+      },
+      {
+        "location": "Accent",
+        "color_name": "French Roast",
+        "color_number": 6069
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "E2371CC2-4A9C-944D-9EC4-4DF178987CBF",
+    "Address": "16557  Avaranche  Way",
+    "City": "Round Rock",
+    "State": "TX",
+    "Zip": 78681,
+    "Lat": 30.4990464,
+    "Lon": -97.7370805,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      { "location": "Body", "color_name": "Minimalist", "color_number": 9611 },
+      {
+        "location": "Trim",
+        "color_name": "Prairie Grass",
+        "color_number": 7546
+      },
+      {
+        "location": "Accent",
+        "color_name": "Bakelite Gold",
+        "color_number": 6368
+      },
+      {
+        "location": "Accent",
+        "color_name": "French Roast",
+        "color_number": 6069
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "015DE8F5-2B28-5945-8CE6-44B75FFDEF0F",
+    "Address": "310  Lakewood Dr.",
+    "City": "Buda",
+    "State": "TX",
+    "Zip": 78610,
+    "Lat": 30.1237157,
+    "Lon": -97.8609667,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      {
+        "location": "Body",
+        "color_name": "Chocolate Froth ",
+        "color_number": "720C-2"
+      },
+      {
+        "location": "Body",
+        "color_name": "Smooth Coffee",
+        "color_number": "740B-7"
+      },
+      {
+        "location": "Trim",
+        "color_name": "Club Soda",
+        "color_number": "530C-1"
+      },
+      {
+        "location": "Accent",
+        "color_name": "French Roast",
+        "color_number": 6069
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "090B502C-A088-C540-8340-F85E24F9E67F",
+    "Address": "304  Laurel Path",
+    "City": "Buda",
+    "State": "TX",
+    "Zip": 78610,
+    "Lat": 30.1183484,
+    "Lon": -97.857436,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      {
+        "location": "Body",
+        "color_name": "Chocolate Froth ",
+        "color_number": "720C-2"
+      },
+      {
+        "location": "Body",
+        "color_name": "Smooth Coffee",
+        "color_number": "740B-7"
+      },
+      {
+        "location": "Trim",
+        "color_name": "Club Soda",
+        "color_number": "530C-1"
+      },
+      {
+        "location": "Accent",
+        "color_name": "French Roast",
+        "color_number": 6069
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "C4845EC8-E778-A24A-A4D6-E6BE2B2B0B9F",
+    "Address": "3604  Shady Valley  Dr.",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78739,
+    "Lat": 30.1697569,
+    "Lon": -97.858789,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      {
+        "location": "Body",
+        "color_name": "Colonial Revival Gray",
+        "color_number": 2832
+      },
+      {
+        "location": "Trim",
+        "color_name": "Colonial Revival Gray",
+        "color_number": 2832
+      },
+      {
+        "location": "Accent",
+        "color_name": "Colonial Revival Gray",
+        "color_number": 2832
+      },
+      {
+        "location": "Accent",
+        "color_name": "French Roast",
+        "color_number": 6069
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "904F85F9-0196-1740-8825-50E5578B2BF3",
+    "Address": "6000 Mount Bonnell Cove",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78731,
+    "Lat": 30.3481064,
+    "Lon": -97.7784591,
+    "Substrate": "Wood Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      {
+        "location": "Body",
+        "color_name": "Colonial Revival Gray",
+        "color_number": 2832
+      },
+      {
+        "location": "Trim",
+        "color_name": "Colonial Revival Gray",
+        "color_number": 2832
+      },
+      {
+        "location": "Accent",
+        "color_name": "Colonial Revival Gray",
+        "color_number": 2832
+      },
+      {
+        "location": "Accent",
+        "color_name": "French Roast",
+        "color_number": 6069
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "CE610223-487B-ED45-913C-06DAB79802B0",
+    "Address": " 2419 Aspen Meadow Rd ",
+    "City": "Leander",
+    "State": "TX",
+    "Zip": 78641,
+    "Lat": 30.5421918,
+    "Lon": -97.8538592,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      {
+        "location": "Body",
+        "color_name": "Colonial Revival Gray",
+        "color_number": 2832
+      },
+      {
+        "location": "Trim",
+        "color_name": "Colonial Revival Gray",
+        "color_number": 2832
+      },
+      {
+        "location": "Accent",
+        "color_name": "Colonial Revival Gray",
+        "color_number": 2832
+      },
+      {
+        "location": "Accent",
+        "color_name": "French Roast",
+        "color_number": 6069
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "CDF65795-A881-9B4C-9D4C-847B123C94E5",
+    "Address": "7104  Vail Ridge  St.",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78744,
+    "Lat": 30.2003649,
+    "Lon": -97.7001582,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      {
+        "location": "Body",
+        "color_name": "Tavern Taupe",
+        "color_number": 7508
+      },
+      {
+        "location": "Trim",
+        "color_name": "Colonial Revival Gray",
+        "color_number": 2832
+      },
+      {
+        "location": "Accent",
+        "color_name": "Colonial Revival Gray",
+        "color_number": 2832
+      },
+      {
+        "location": "Accent",
+        "color_name": "French Roast",
+        "color_number": 6069
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "01966ECF-C616-8B47-8CA6-E4BC09DA7B51",
+    "Address": "1105  Aqualine Cove",
+    "City": "Round Rock",
+    "State": "TX",
+    "Zip": "78681\r\r\n",
+    "Lat": 30.500849,
+    "Lon": -97.6922942,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      {
+        "location": "Body",
+        "color_name": "Rookwood Sash Green",
+        "color_number": 2810
+      },
+      {
+        "location": "Trim",
+        "color_name": "Colonial Revival Gray",
+        "color_number": 2832
+      },
+      {
+        "location": "Accent",
+        "color_name": "Colonial Revival Gray",
+        "color_number": 2832
+      },
+      {
+        "location": "Accent",
+        "color_name": "French Roast",
+        "color_number": 6069
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "A31AE65C-104C-B944-A925-8D664BCF2C89",
+    "Address": "5701  Kempson Dr.",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": 78735,
+    "Lat": 30.2497988,
+    "Lon": -97.8752733,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      {
+        "location": "Body",
+        "color_name": "Rookwood Sash Green",
+        "color_number": 2810
+      },
+      {
+        "location": "Trim",
+        "color_name": "Colonial Revival Gray",
+        "color_number": 2832
+      },
+      {
+        "location": "Accent",
+        "color_name": "Colonial Revival Gray",
+        "color_number": 2832
+      },
+      {
+        "location": "Accent",
+        "color_name": "French Roast",
+        "color_number": 6069
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  },
+  {
+    "KF_Job_ID": "3394CEBE-4318-7744-9244-FC6BE0266312",
+    "Address": "3602  Luminoso Lane",
+    "City": "Round Rock",
+    "State": "TX",
+    "Zip": 78681,
+    "Lat": 30.5475801,
+    "Lon": -97.7342339,
+    "Substrate": "Painted Siding",
+    "Complete": 2022,
+    "Color": [
+      {
+        "location": "Body",
+        "color_name": "Rookwood Sash Green",
+        "color_number": 2810
+      },
+      {
+        "location": "Trim",
+        "color_name": "Colonial Revival Gray",
+        "color_number": 2832
+      },
+      {
+        "location": "Accent",
+        "color_name": "Colonial Revival Gray",
+        "color_number": 2832
+      },
+      {
+        "location": "Accent",
+        "color_name": "French Roast",
+        "color_number": 6069
+      },
+      { "location": "Accent", "color_name": "Soar", "color_number": 6799 }
+    ]
+  }
+]
