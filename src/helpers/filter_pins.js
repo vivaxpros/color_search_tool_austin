@@ -15,8 +15,6 @@ function filter_pins(pins = [], color, substrate, complete) {
               d.Complete.toString().includes(complete.toString())
           ));
 
-    console.log('complete', complete);
-
     let color_filter = [];
 
     color === ''
