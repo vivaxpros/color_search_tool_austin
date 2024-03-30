@@ -28,6 +28,16 @@ function App() {
     console.log('url2', url2);
     console.log('url3', url3);
 
+    const currentIframeHref = new URL(document.location.href);
+    const urlOrigin = currentIframeHref.origin;
+    const urlFilePath = decodeURIComponent(currentIframeHref.pathname);
+
+    console.log('currentIframeHref', currentIframeHref);
+    console.log('urlOrigin', urlOrigin);
+    console.log('urlFilePath', urlFilePath);
+
+    console.log('baseURI', document.baseURI);
+
     function applyFilters() {
         let color = document.getElementById('colorInput').value;
         let substrate = document.getElementById('substrateInput').value;
