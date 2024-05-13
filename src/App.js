@@ -12,31 +12,8 @@ function App() {
     const [map, setMap] = useState(null);
     const [currLocPin, updateCurrLocPin] = useState('');
 
-    let url1 =
-        window.location != window.parent.location
-            ? document.referrer
-            : document.location.href;
-
-    let url2 = document.location.ancestorOrigins[0];
-
-    let url3 =
-        document.location.ancestorOrigins[
-            document.location.ancestorOrigins.length - 1
-        ];
-
-    console.log('url1', url1);
-    console.log('url2', url2);
-    console.log('url3', url3);
-
-    const currentIframeHref = new URL(document.location.href);
-    const urlOrigin = currentIframeHref.origin;
-    const urlFilePath = decodeURIComponent(currentIframeHref.pathname);
-
-    console.log('currentIframeHref', currentIframeHref);
-    console.log('urlOrigin', urlOrigin);
-    console.log('urlFilePath', urlFilePath);
-
-    console.log('baseURI', document.baseURI);
+    const searchParams = new URL(document.location).searchParams;
+    const startPosition = searchParams.get('start') ?? 'austin';
 
     function applyFilters() {
         let color = document.getElementById('colorInput').value;
@@ -58,6 +35,7 @@ function App() {
                     map={map}
                     setMap={setMap}
                     currLocPin={currLocPin}
+                    startPosition={startPosition}
                 />
             </div>
         </>
